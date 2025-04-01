@@ -15,4 +15,5 @@ Calculate the true mean (μ₀)
 Perform Monte Carlo simulations to estimate the empirical Type I error rate
 Compare it to the nominal α level (typically 0.05)
 Visualize the results
-![Uploading Screenshot 2025-04-01 at 6.20.34 PM.png…]()
+
+<img width="391" alt="Screenshot 2025-04-01 at 6 21 51 PM" src="https://github.com/user-attachments/assets/2655b9a5-a82c-49ec-a381-9a968003dca0" />
