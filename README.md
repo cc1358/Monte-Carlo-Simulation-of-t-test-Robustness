@@ -18,3 +18,18 @@ Visualize the results
 
 <img width="391" alt="Screenshot 2025-04-01 at 6 21 51 PM" src="https://github.com/user-attachments/assets/2655b9a5-a82c-49ec-a381-9a968003dca0" />
 <img width="802" alt="Screenshot 2025-04-01 at 6 22 21 PM" src="https://github.com/user-attachments/assets/e0c46cdb-f6f5-4a47-a446-99aef49f9686" />
+
+
+Key Findings
+
+χ²(1) Distribution (Heavily Skewed):
+The t-test shows inflated Type I error rates for small sample sizes
+Requires n > 30 to approach the nominal α level
+Uniform(0,2) Distribution (Symmetric but Not Normal):
+The t-test performs well even at small sample sizes
+Empirical α remains close to nominal level across all n
+Exponential(1) Distribution (Moderately Skewed):
+Moderate inflation of Type I error for small n
+Approaches nominal level by n = 30
+
+
