@@ -17,3 +17,4 @@ Compare it to the nominal α level (typically 0.05)
 Visualize the results
 
 <img width="391" alt="Screenshot 2025-04-01 at 6 21 51 PM" src="https://github.com/user-attachments/assets/2655b9a5-a82c-49ec-a381-9a968003dca0" />
+<img width="802" alt="Screenshot 2025-04-01 at 6 22 21 PM" src="https://github.com/user-attachments/assets/e0c46cdb-f6f5-4a47-a446-99aef49f9686" />
